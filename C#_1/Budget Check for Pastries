@@ -1,0 +1,2 @@
+The program calculates whether a given budget is enough to buy a certain number of banichki, mekitsi, kifli, and gevreks. The prices of the items are calculated based on the price of a banichka. 
+Then, the total cost is compared to the budget, and it outputs whether the money is sufficient or how much more is needed.
