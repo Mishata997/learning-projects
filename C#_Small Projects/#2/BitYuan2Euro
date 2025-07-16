@@ -1,0 +1,2 @@
+The program performs currency conversion – it converts Bitcoins and Chinese Yuan into Euros using fixed exchange rates and applies a commission percentage. 
+It reads input values from the user, calculates the total amount in Bulgarian leva, converts it into euros, subtracts the commission, and finally displays the result.
