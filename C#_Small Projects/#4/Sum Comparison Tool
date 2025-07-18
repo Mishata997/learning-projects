@@ -1,0 +1,2 @@
+The program reads two sequences of numbers and compares their sums.It first reads an integer n, then takes two groups of n numbers each.
+It sums both groups separately and checks if the sums are equal.If they are, it prints a message with the sum; otherwise, it prints the absolute difference between the two sums.
