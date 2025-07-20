@@ -1,0 +1,2 @@
+The program calculates whether a given budget is enough to cover the cost of books and related additional expenses (clothing, cosmetics, and others). It takes two inputs – the total budget and the price of the books. 
+Then, it calculates the extra expenses as percentages of the book price and checks if the budget can cover them. Finally, it outputs whether the money is sufficient and how much is left or how much more is needed.
