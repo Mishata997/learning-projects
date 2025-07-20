@@ -1,0 +1,2 @@
+The program takes the zodiac signs of a group of friends and calculates what percentage of them belong to each of the four elements — **Water**, **Fire**, **Earth**, and **Air** — based on astrology. 
+It then prints the percentage distribution of each element with two decimal places of precision.
