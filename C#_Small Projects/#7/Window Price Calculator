@@ -1,0 +1,2 @@
+The program calculates how much Goshko has to pay for windows based on the entered dimensions (width and length), number of chambers, and the chosen company. Based on this data, it determines the price per square 
+meter according to the company and the number of chambers, calculates the window area, and finally outputs the total amount Goshko has to pay.
