@@ -1,11 +1,7 @@
-# 🚀 Project Name
+# 📂 My Multi-Project Repository
 
-> *A short and catchy tagline or description of your project*
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/projectname?style=social) 
-![GitHub forks](https://img.shields.io/github/forks/yourusername/projectname?style=social) 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/projectname) 
-![GitHub license](https://img.shields.io/github/license/yourusername/projectname)
+Welcome to my collection of projects!  
+This repository contains **7 C# projects** and **2 websites**, each in its own folder.
 
 ---
 
