@@ -1,7 +1,7 @@
 # 📂 My Multi-Project Repository
 
 Welcome to my collection of projects!  
-This repository contains **7 C# projects** and **2 websites**, each in its own folder.
+This repository contains **8 C# projects** and **2 websites**, each in its own folder.
 
 ---
 
