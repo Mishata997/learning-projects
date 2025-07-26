@@ -16,8 +16,6 @@ Welcome to my learning journey! This repository showcases my first steps into pr
 
 The `C#_Small Projects` folder includes 8 different mini-projects. Here's a look inside:
 
-![C# Small Projects Screenshot](./mnt/data/bec628c8-c5db-4569-8809-944bf877e672.png)
-
 Each numbered folder contains an individual project — from simple logic tasks to small console apps.
 
 ---
@@ -26,7 +24,6 @@ Each numbered folder contains an individual project — from simple logic tasks 
 
 Here’s a snapshot of the overall project structure:
 
-![Repository Overview](./mnt/data/d5654040-d580-4c59-b9e2-4b0de099f8d7.png)
 
 ---
 
