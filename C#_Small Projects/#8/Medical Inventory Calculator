@@ -1,0 +1,3 @@
+The program allows the user to enter a specific number of medical instruments, accepting three possible types: microscope, scalpel, and syringe. After the input, 
+the program counts how many times each instrument appears and calculates the total cost based on fixed prices. Finally, it displays the total amount that would be needed to purchase all the entered items. 
+The program uses simple conditional checks and arithmetic operations, without additional validation for invalid input.
